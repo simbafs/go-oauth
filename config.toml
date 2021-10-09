@@ -1,0 +1,7 @@
+addr = ':3000'
+session_name = 'go-oauth'
+github_app_id = '143246'
+client_id = 'Iv1.e4333cdd24e83118'
+client_secret = 'f20a663112f9c61210fc0bb98cd69252d54ec6ff'
+allow_signup = true
+token_exp = 600
