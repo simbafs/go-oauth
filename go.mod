@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/cristalhq/aconfig v0.16.6
 	github.com/cristalhq/aconfig/aconfigtoml v0.16.1
-	github.com/gin-gonic/gin v1.7.4
+	github.com/gin-gonic/gin v1.7.7
 	github.com/lestrrat-go/jwx v1.2.7
 )
 
